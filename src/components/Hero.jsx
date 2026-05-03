@@ -7,7 +7,7 @@ export default function Hero() {
         <div className="flex justify-center align-top">
           <div className="p-[4px] rounded-full bg-gradient-to-r from-accent1 to-accent2">
             <img
-              src="src\Image.jpeg"
+              src="/Image.jpeg"
               className="w-52 h-52 md:w-60 md:h-60 rounded-full object-cover object-[center_35%]"
             />
           </div>
