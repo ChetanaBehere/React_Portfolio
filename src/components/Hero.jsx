@@ -28,7 +28,7 @@ export default function Hero() {
               View Projects
             </a>
 
-            <a href="Chetana_Resume_New_Template.pdf" target="_blank" className="btn btn-outline">
+            <a href="/Chetana_Resume_New_Template.pdf" target="_blank" className="btn btn-outline">
               Download Resume
             </a>
           </div>
